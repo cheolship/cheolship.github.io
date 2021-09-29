@@ -104,7 +104,7 @@ author:
   name             : "cheolship"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an "
-  location         : "Seoul in S.korea"
+  location         : "Seoul, S.korea"
   email            : "cheolship@gmail.com
   links:
     - label: "Email"
