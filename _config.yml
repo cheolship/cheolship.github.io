@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale: "en-US"
@@ -102,7 +102,7 @@ analytics:
 author:
   name: "cheolship"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an "
+  bio: "웹 프론트엔드 개발 공부 블로그입니다. "
   location: "Seoul, S.korea"
   email: "cheolship@gmail.com"
   links:
